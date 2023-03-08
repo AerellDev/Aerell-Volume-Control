@@ -10,3 +10,6 @@ Adalah aplikasi untuk mengatur suara hp tanpa tombol volume, aplikasi ini dibuat
 - package_info_plus (Package)
 - shared_preferences (Package)
 - volume (Package)
+
+## Changelog
+- [Bisa Di Lihat Disini](https://github.com/AerellDev/Aerell-Volume-Control/blob/master/CHANGELOG.md)
