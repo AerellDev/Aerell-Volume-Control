@@ -1,0 +1,62 @@
+{
+    "app_name": "Aerell Volume Control",
+    "@app_name": {
+        "description": "Name Application"
+    },
+    "setting": "Setting",
+    "@setting": {
+        "description": "Setting Text"
+    },
+    "about": "About",
+    "@about": {
+        "description": "About Text"
+    },
+    "createby": "Create By {developer_name}",
+    "@createby": {
+        "description": "Create By Text",
+        "placeholders": {
+            "developer_name": {
+                "type": "String",
+                "example": "AerellDev"
+            }
+        }
+    },
+    "version": "Version : {app_version}",
+    "@version": {
+        "description": "Version Text",
+        "placeholders": {
+            "app_version": {
+                "type": "String",
+                "example": "1.0.0"
+            }
+        }
+    },
+    "language": "Language",
+    "@language": {
+        "description": "Language Text"
+    },
+    "theme": "Theme",
+    "@theme": {
+        "description": "Theme Text"
+    },
+    "system": "System",
+    "@system": {
+        "description": "System Text"
+    },
+    "light": "Light",
+    "@light": {
+        "description": "Light Text"
+    },
+    "dark": "Dark",
+    "@dark": {
+        "description": "Dark Text"
+    },
+    "indonesia": "Indonesia",
+    "@indonesia": {
+        "description": "Indonesia Text"
+    },
+    "inggris": "English",
+    "@inggris": {
+        "description": "English Text"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "app_name": "Aerell Kontrol Volume",
+    "@app_name": {
+        "description": "Nama Aplikasi"
+    },
+    "setting": "Pengaturan",
+    "@setting": {
+        "description": "Teks Pengaturan"
+    },
+    "about": "Tentang",
+    "@about": {
+        "description": "Teks Tentang"
+    },
+    "createby": "Dibuat Oleh {developer_name}",
+    "@createby": {
+        "description": "Teks dibuat oleh",
+        "placeholders": {
+            "developer_name": {
+                "type": "String",
+                "example": "AerellDev"
+            }
+        }
+    },
+    "version": "Versi : {app_version}",
+    "@version": {
+        "description": "Teks versi",
+        "placeholders": {
+            "app_version": {
+                "type": "String",
+                "example": "1.0.0"
+            }
+        }
+    },
+    "language": "Bahasa",
+    "@language": {
+        "description": "Teks Bahasa"
+    },
+    "theme": "Tema",
+    "@theme": {
+        "description": "Teks Tema"
+    },
+    "system": "Sistem",
+    "@system": {
+        "description": "Teks Sistem"
+    },
+    "light": "Terang",
+    "@light": {
+        "description": "Teks Terang"
+    },
+    "dark": "Gelap",
+    "@dark": {
+        "description": "Teks Gelap"
+    },
+    "indonesia": "Indonesia",
+    "@indonesia": {
+        "description": "Teks Indonesia"
+    },
+    "inggris": "Inggris",
+    "@inggris": {
+        "description": "Teks Inggris"
+    }
+}
